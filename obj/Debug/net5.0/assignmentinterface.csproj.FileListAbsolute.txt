@@ -1,0 +1,16 @@
+C:\Users\User\DotNet WellaProject\assignmentinterface\bin\Debug\net5.0\assignmentinterface.exe
+C:\Users\User\DotNet WellaProject\assignmentinterface\bin\Debug\net5.0\assignmentinterface.deps.json
+C:\Users\User\DotNet WellaProject\assignmentinterface\bin\Debug\net5.0\assignmentinterface.runtimeconfig.json
+C:\Users\User\DotNet WellaProject\assignmentinterface\bin\Debug\net5.0\assignmentinterface.runtimeconfig.dev.json
+C:\Users\User\DotNet WellaProject\assignmentinterface\bin\Debug\net5.0\assignmentinterface.dll
+C:\Users\User\DotNet WellaProject\assignmentinterface\bin\Debug\net5.0\ref\assignmentinterface.dll
+C:\Users\User\DotNet WellaProject\assignmentinterface\bin\Debug\net5.0\assignmentinterface.pdb
+C:\Users\User\DotNet WellaProject\assignmentinterface\obj\Debug\net5.0\assignmentinterface.csproj.AssemblyReference.cache
+C:\Users\User\DotNet WellaProject\assignmentinterface\obj\Debug\net5.0\assignmentinterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\DotNet WellaProject\assignmentinterface\obj\Debug\net5.0\assignmentinterface.AssemblyInfoInputs.cache
+C:\Users\User\DotNet WellaProject\assignmentinterface\obj\Debug\net5.0\assignmentinterface.AssemblyInfo.cs
+C:\Users\User\DotNet WellaProject\assignmentinterface\obj\Debug\net5.0\assignmentinterface.csproj.CoreCompileInputs.cache
+C:\Users\User\DotNet WellaProject\assignmentinterface\obj\Debug\net5.0\assignmentinterface.dll
+C:\Users\User\DotNet WellaProject\assignmentinterface\obj\Debug\net5.0\ref\assignmentinterface.dll
+C:\Users\User\DotNet WellaProject\assignmentinterface\obj\Debug\net5.0\assignmentinterface.pdb
+C:\Users\User\DotNet WellaProject\assignmentinterface\obj\Debug\net5.0\assignmentinterface.genruntimeconfig.cache
